@@ -25,7 +25,7 @@ export default {
 
 <template>
 <section>
-    <h2>Hello</h2>
+    <h2>Hello !</h2>
     <p>{{msg}}</p>
     <p>{{ message }}</p>
     <p>Le compte est de {{ compteur }}</p>
