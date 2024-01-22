@@ -8,8 +8,10 @@ import MyOptionComponent from './components/MyOptionComponent.vue';
 
 <template>
   <h1>je suis la</h1>
-<MyOptionComponent></MyOptionComponent>
+  <div id="App">
+<MyOptionComponent msg="salut"/>
   <!-- Monter les composants ici -->
+</div>
 </template>
 
 <style scoped>
